@@ -15,4 +15,6 @@
 # prerequisite
 Please follow the steps given in How to Run txt file and you will be able to get started with your own model 
 
-
+# Demo
+* Click on camera icon to upload the image from the desired location 
+* Now click on detect leaf button the information will be displayed on right side on screen  
