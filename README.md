@@ -18,4 +18,4 @@ Please follow the steps given in How to Run txt file and you will be able to get
 # Demo
 * Click on camera icon to upload the image from the desired location 
 * Now click on detect leaf button the information will be displayed on right side on screen  
-* ![Alt text](ezgif.com-gif-maker.gif) / ![](ezgif.com-gif-maker.gif)
+* ![Alt text](ezgif.com-gif-maker.gif)
