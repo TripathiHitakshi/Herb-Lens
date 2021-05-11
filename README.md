@@ -15,5 +15,4 @@
 # prerequisite
 Please follow the steps given in How to Run txt file and you will be able to get started with your own model 
 
-# Demo
 
