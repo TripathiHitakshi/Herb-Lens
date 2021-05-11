@@ -7,7 +7,7 @@
 * This application helps in recognition of these 30 different species by using Transfer Leraning techniques for the identification of the medicinal plants
         
 #  Overview
-* More than 1500 segmented images with 30 classes 
+* 1835 segmented images with 30 classes 
 * Model is trained using mobileNet 
 * The Model only classify the plant if only single leaf is given with appropriate background.
 * Dataset Link: https://data.mendeley.com/datasets/nnytj2v3n5/1
